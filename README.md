@@ -1,12 +1,10 @@
 
 #### before redis cache
-<img src="screenshots/noredis.jgp" alt="dashboard">
 
 ![before redis](./screenshots/noredis.jpg )
 
 
 #### after redis cache
-<img src="screenshots/redis.jgp" alt="dashboard">
 
 ![after redis](./screenshots/redis.jpg )
 
